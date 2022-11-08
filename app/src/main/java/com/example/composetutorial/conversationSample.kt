@@ -2,7 +2,7 @@ package com.example.composetutorial
 
 /**
  * SampleData for Jetpack Compose Tutorial
- */
+
 object SampleData {
     // Sample conversation data
     val conversationSample = listOf(
@@ -72,4 +72,4 @@ object SampleData {
             "Have you tried writing build.gradle with KTS?"
         ),
     )
-}
+}*/
